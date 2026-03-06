@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">holamundo</string>
+    <string name="TextView1">Hello Word</string>
+    <string name="EditText1">Write your name</string>
+    <string name="EditText4">Write your mother\'s last name</string>
+    <string name="Button1">Salute</string>
+    <string name="Button2">Exit</string>
+    <string name="TextView2">Say all together hello: </string>
+    <string name="Button3">Back</string>
+    <string name="EditText3">Write your last name</string>
+</resources>

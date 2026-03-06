@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">holamundo</string>
+    <string name="TextView1">Hola Món</string>
+    <string name="EditText1">Escriu el teu nom</string>
+    <string name="EditText4">Escriu el teu cognom matern</string>
+    <string name="Button1">Saludar</string>
+    <string name="Button2">Sortir</string>
+    <string name="TextView2">Diguem tots junts hola: </string>
+    <string name="Button3">Tornar</string>
+    <string name="EditText3">Escriu el teu cognom patern</string>
+</resources>
